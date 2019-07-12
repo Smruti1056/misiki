@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19001,
+  "packagerPid": 5664,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://5e-76i.anonymous.components.exp.direct",
+  "packagerNgrokUrl": "https://packager.5e-76i.anonymous.components.exp.direct",
+  "ngrokPid": 12644,
+  "webpackServerPort": null
+}
